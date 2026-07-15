@@ -25,3 +25,17 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibankar&show_icons=true&locale=en&layout=compact" alt="vaibankar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibankar&show_icons=true&locale=en" alt="vaibankar" /></p>
+
+
+
+
+🐍 Snake Contribution Animation
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+</picture>
+
+Note: The snake animation requires a GitHub Actions workflow to generate the SVG automatically.
